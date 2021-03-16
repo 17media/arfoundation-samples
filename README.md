@@ -10,6 +10,8 @@ This set of samples relies on five Unity packages:
 * ARKit Face Tracking ([documentation](https://docs.unity3d.com/Packages/com.unity.xr.arkit-face-tracking@4.2/manual/index.html))
 * ARFoundation ([documentation](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html))
 
+Note: When you first load this project, you may receive a modal dialog asking you if you want to use the new Input backends.  Select "no" when given this popup.
+
 ## What version should I use?
 
 | Unity Version | ARFoundation Version |
